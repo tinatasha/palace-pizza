@@ -1,6 +1,5 @@
 
 $(document).ready(function(){
-    alert("ggg");
     $("#yesButton").click(function(){
         alert("Delivery costs Ksh.500");
         prompt("Enter your destination");
