@@ -42,3 +42,5 @@ $('#top3').click(function () {
     console.log(toppingsValue3);
 });
 
+var pizzaNo = $("#pizzaNumber").value();
+var actualPizzaNo = parseInt(pizzaNo);
