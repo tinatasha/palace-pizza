@@ -44,3 +44,17 @@ $('#top3').click(function () {
 
 var pizzaNo = $("#pizzaNumber").value();
 var actualPizzaNo = parseInt(pizzaNo);
+
+var pizzaDelivery = $("#delivery").val();
+var actualPizzaDelivery = parseInt(pizzaDelvery);
+if(actualPizzaDelivery == "Yes"){
+    alert("Delivery costs Ksh. 500");
+    prompt("Enter your destination");
+alert("your order will be delivered to your location");
+};
+ 
+$("#checkout").click(function(){
+var finalPrize = document.querySelector("#finalPrize");
+
+$("#finalOrder")
+});
