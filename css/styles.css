@@ -1,10 +1,19 @@
 *{text-align: center;
 }
-#me{
+.me{
     background-color: black;
     color: white;
 }
-#you{
+.you{
     background-color: white;
     color: black;
+}
+span{
+    border:2px solid black;
+    color: white;
+    background-color: black;
+    border-radius: 50%;
+}
+.center{
+    text-align: center;
 }
