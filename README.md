@@ -4,9 +4,9 @@
 
 ## Setup/Installation Requirements
 To start using this project use the following commands:
-*Git clone https://github.com/tinatasha/pizza-palace.git
-*Cd palace-pizza
-*Open in browser
+* Git clone https://github.com/tinatasha/pizza-palace.git
+* Cd palace-pizza
+* Open in browser
 
 ## Link to my live website
 
@@ -20,7 +20,7 @@ To start using this project use the following commands:
 * HTML
 * CSS
 * JQuery
-*Javascript
+* Javascript
 
 ## Support and contact details
 * tashambiti@gmail.com
