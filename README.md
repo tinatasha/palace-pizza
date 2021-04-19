@@ -24,6 +24,7 @@ To start using this project use the following commands:
 
 ## Support and contact details
 * tashambiti@gmail.com
+*0724351764
 
 ### License
 The project is under [MIT license]()
